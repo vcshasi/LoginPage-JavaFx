@@ -1,0 +1,25 @@
+@CHARSET "ISO-8859-1";
+
+.font-bold-size12 {
+	-fx-font-size: 12px;
+	-fx-font-weight: bold;
+}
+
+.font-bold-size18 {
+	-fx-font-size: 18px;
+	-fx-font-weight: bold;
+}
+
+.font-bold-size20 {
+	-fx-font-size: 20px;
+	-fx-font-weight: bold;
+}
+
+.back-white {
+	-fx-background-color: white;
+}
+
+.login-border {
+	-fx-background-color: linear-gradient(lightgray, gray);
+	-fx-border-color: black;
+}
