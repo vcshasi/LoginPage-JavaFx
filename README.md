@@ -9,4 +9,3 @@ Below image shows an example of how the Pane would look like
 On click of the titled Pane 'Click here to SignIn..', it expands as shown in the below image
 
 ![Alt text](/../Screenshots/screenshots/2017-01-04_23h52_18.png?raw=true "After Click")
->>>>>>> refs/remotes/origin/Screenshots
